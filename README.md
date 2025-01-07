@@ -1,3 +1,1 @@
-# This my zomato landing page clone
-
-## setup branch created
+# This is my zomato landing page clone 
